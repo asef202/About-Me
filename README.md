@@ -1,2 +1,4 @@
 # About-Me
-A little introduction to myself
+My name is Asef Haque, I am an international student from Bangladesh currently attending the MSc in Business Analytics program at Brandeis University. I have previously worked as an MIS Operator researching inefficiencies and tweaking our in house software design to make our supply chain flow easier to navigate. My research and analytical skills were truly tested here. In addition, I have also conducted workshops to day-care entrepreneurs in slums to improve child growth and education, while also running a sustainable business. 
+
+The achievement I am most proud of is winning the Best Team Award for our flagship project at Footsteps. The objective: sell the most water filters to companies to place on the busy sidewalks by their office buildings. The pitch was simple and effective, to improve their CSR and goodwill while also helping the general public. It was challenging to sell something that offered no direct returns, but the reward, people off all walks of life having access to clean water.
